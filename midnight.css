@@ -745,9 +745,9 @@ body {
   ); /* background of messages that reply to you when hovered */
 
   /* status indicator colors */
-  --online: var(--green-2); /* change to #43a25a for default */
-  --dnd: var(--red-2); /* change to #d83a42 for default */
-  --idle: var(--yellow-2); /* change to #ca9654 for default */
+  --online: #6a8dff; /* change to #6A8DFF for default */
+  --dnd: #5a5eff; /* change to #5A5EFF for default */
+  --idle: #8a7ccf; /* change to #8A7CCF for default */
   --streaming: var(--purple-2); /* change to ##9147ff for default */
   --offline: var(--text-4); /* change to #83838b for default offline color */
 
